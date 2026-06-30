@@ -144,7 +144,7 @@ export default function Landing() {
           {/* Astronaut floating */}
           <motion.img
             src={astronaut}
-            alt="Anushka, an astronaut developer standing on Earth"
+            alt="Anushka, a software developer standing on Earth"
             width={1024}
             height={1280}
             className="relative z-10 h-full w-auto object-contain drop-shadow-[0_30px_60px_rgba(120,180,255,0.35)]"
